@@ -111,6 +111,9 @@
 			children = (
 				66E91D9F1C3A0963008D8DE0 /* UIView+CCJExtension.h */,
 				66E91DA01C3A0963008D8DE0 /* UIView+CCJExtension.m */,
+				66E91D9A1C3A0821008D8DE0 /* CJPresentView.h */,
+				66E91D9B1C3A0821008D8DE0 /* CJPresentView.m */,
+				66E91D9D1C3A0842008D8DE0 /* CJPresentView.xib */,
 				66E91D6A1C3A0754008D8DE0 /* AppDelegate.h */,
 				66E91D6B1C3A0754008D8DE0 /* AppDelegate.m */,
 				66E91D6D1C3A0754008D8DE0 /* ViewController.h */,
@@ -120,9 +123,6 @@
 				66E91D751C3A0754008D8DE0 /* LaunchScreen.storyboard */,
 				66E91D781C3A0754008D8DE0 /* Info.plist */,
 				66E91D671C3A0754008D8DE0 /* Supporting Files */,
-				66E91D9A1C3A0821008D8DE0 /* CJPresentView.h */,
-				66E91D9B1C3A0821008D8DE0 /* CJPresentView.m */,
-				66E91D9D1C3A0842008D8DE0 /* CJPresentView.xib */,
 			);
 			path = CJPresentView;
 			sourceTree = "<group>";
