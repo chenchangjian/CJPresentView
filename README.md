@@ -10,3 +10,4 @@ CJPresentView 是一个封装工具类,将点击后弹出半个View的效果封�
 ```
 使用的方法,在ViewController中实现
 使用详情请下载后查看
+![](https://github.com/chenchangjian/CJPresentView/blob/master/Gif%E5%9B%BE%E7%89%87/presentGif.gif)
